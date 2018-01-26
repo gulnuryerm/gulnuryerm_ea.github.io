@@ -1,0 +1,59 @@
+body{
+  background-color: #f7ede0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+Header {
+  display: flex;
+  /*justify-content: space-between;*/
+  align-items: center;
+}
+
+/*.vitrina {
+  text-align: center;
+}*/
+
+.module {
+  color: #ef8f34;
+  font-size: 20px;
+  font-style: italic;
+  margin-left: 20px;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration:underline;
+  color: blue;
+}
+
+.putevoditel{
+  color: #662d1c;
+  font-size: 17px;
+  font-style: italic;
+  font-family: cursive;
+  text-decoration: none;
+  }
+
+.entry {
+  color: #8d7361;
+  font-size: 17px;
+  font-style: italic;
+  font-family: cursive;
+  text-decoration: none;
+  }
+
+.registrition {
+  color: #6a4849;
+  font-size: 17px;
+  font-style: italic;
+  font-family: cursive;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  margin-left: 15px;
+}
