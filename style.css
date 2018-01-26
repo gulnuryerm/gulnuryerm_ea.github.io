@@ -1,7 +1,10 @@
 body{
   background-color: #f7ede0;
+font-family: Arial;
 }
-
+ nav {
+   margin: 0 auto;
+ }
 .container {
   display: flex;
   flex-direction: column;
